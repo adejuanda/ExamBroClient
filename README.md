@@ -1,4 +1,4 @@
-# ExamBro Client untuk Linux Mint
+# ExamBro Client untuk LInux / Linux Mint
 
 Port Linux dari **ExamBrowser Client 26.0222** (Pusmenjar/Pusdatin) untuk menggantikan klien Windows pada ujian ANBK/Asesmen Nasional.
 
